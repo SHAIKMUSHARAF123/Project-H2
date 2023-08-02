@@ -1,0 +1,33 @@
+.img-thumbnail{
+
+    border:2px solid red ;
+    
+}
+span{
+    font-size: 50px !important;
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+}
+
+.side-img{
+    width: px;
+    height: 100px;
+}
+.navbar-nav{
+    background-color: #C6D0F3;
+    width:100%;
+}
+#body{
+    background-image: url('/college\ back\ ground.png');
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sar{
+    height: 100px;
+    width: 100px;
+}
